@@ -5,9 +5,9 @@ import bcrypt
 import os
 
 # Constants for file paths
-USER_DATA_FILE = 'C:\\Users\\hp\\Desktop\\online java frame\\users.xlsx'
-JOB_DATA_FILE = 'C:\\Users\\hp\\Desktop\\online java frame\\job and skills.xlsx'
-APPLICATIONS_FILE = 'C:\\Users\\hp\\Desktop\\online java frame\\applications.xlsx'
+USER_DATA_FILE = 'C:\\Users\\hp\\Desktop\\online\\users.xlsx'
+JOB_DATA_FILE = 'C:\\Users\\hp\\Desktop\\online\\job and skills.xlsx'
+APPLICATIONS_FILE = 'C:\\Users\\hp\\Desktop\\online\\applications.xlsx'
 
 # Load the updated dataset from the Excel file
 def load_data(file_path):
